@@ -1,8 +1,0 @@
-佐藤    1 #math #Japanese #English
-鈴木    1 #phisics #English
-高橋    2 #English
-田中    2 #English #math
-伊藤    3 #math
-渡辺    3 #history
-山本    4 #art
-中村    4 #biology
